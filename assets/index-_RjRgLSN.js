@@ -14464,7 +14464,7 @@ const _i = U1(
         await U.get(
           "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/db1.json"
         )
-      ).data
+      ).data.products
   ),
   Z1 = K1({
     name: "products",
