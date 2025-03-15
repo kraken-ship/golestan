@@ -1,0 +1,148 @@
+{
+    "menu": [
+    { "id": 1,"name":"صفحه اصلی"},
+    { "id": 2,"name":"شرکت گلستان"},
+    { "id": 3,"name":"محصولات"},
+    { "id": 4,"name":"وبلاگ"},
+    { "id": 5,"name":"قرعه کشی"},
+    { "id": 6,"name":"استخدام" },
+    { "id": 7,"name":"تماس با ما " },
+    { "id": 8,"name":"EN" }
+  ],
+  "about":[
+    {"id":1,"title":"معرفی گلستان","post":"آنچه که امروز با نام مجموعه گلستان می‌شناسیم در سال 1329 بنیان نهاده شد. زمانی که شرکت گلستان فعالیت خود را با بسته‌بندی و توزیع چای پاکتی آغاز کرد. با گذر زمان و رشد اقتصاد کشور، نهال «گلستان» به تدریج تقویت شد و شاخ و برگ گرفت. فعالیت‌های «گلستان» با تهیه، تولید و بسته‌بندی بهترین محصولات غذایی گسترش پیدا کرد. گلستان پس از سال‌ها تلاش همچنان می‌کوشد تا به کمک تجربه‌های اندوخته شده در این سال‌ها کالاهایی قابل اعتماد و با کیفیت تولید نماید.","post2":"هدفمندی و برنامه‌ریزی موثر، ایمان و عزم راسخ برای دستیابی به اهداف تعیین شده، به کار گیری همکاران مجرب و دلسوز، استفاده از روش های نوین بازاریابی و مشتری محوری از جمله عوامل مهم در استراتژی شرکت گلستان است."},
+    {"id":2,"title":"محصولات گلستان​","post":"نام تجاری گلستان قدمتی به اندازه عمر شرکت گلستان دارد. گلستان ممتازترین محصولات خود را با این نام تجاری عرضه می‌کند. مصرف‌کنندگان محصولات گلستان همواره از این نام تجاری خاطره محصولاتی ممتاز و منحصر بفرد دارند و با اطمینان از نهایت کیفیت این نام تجاری حمایت می‌کنند."}
+  ],
+  "aboutBox":[
+    {"id":1,"title":"سرمایه انسانی","image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/1.png"},
+    {"id":2,"title":"مراکز فروش","image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/2.png"},
+    {"id":3,"title":"محصولات گلستان","image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/3.png"},
+    {"id":4,"title":"مشتریان گلستان","image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/4.png"}
+  ],
+  "Box":[
+    {
+      "id":1,
+      "title1":"برنج گلستان",
+      "title2":"معرفی محصول",
+      "head1":"رکن اول غذای ایرانی",
+      "main":"مرغوب‌ترین برنج دنیا، برنج ایران است و بهترین نوع برنج ایرانی،‌ طارم و هاشمی. این برنج‌ها از بهترین شالیزارهای مازندران برداشت شده، پس از كنترل كیفیت در آزمایشگاه‌های تخصصی گلستان وارد چرخه بسته‌بندی و در وزن‌های مختلف به بازار عرضه می‌شوند. عطر و طعم بی‌نظیر برنج گلستان با هیچ برنج دیگری قابل مقایسه نیست. با گلستان،‌ كیفیت زندگی بالاتر از همیشه است چرا كه مشتریان گلستان؛‌ لایق بهترین‌ها هستند.",
+      "button1":"محصولات برنج",
+      "button2":"اشپزخانه گلستان",
+      "image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/image2.jpg"
+  },
+  {
+      "id":2,
+      "title1":"چای گلستان" ,
+      "title2":"معرفی محصول",
+      "head1":"سابقه‌ای به قدمت یک عمر",
+      "main":"چای تنها یك نوشیدنی گرم نیست.‌ یک گفتمان است؛‌ گرمابخش وجود و بهانه‌ای برای آغاز یك معاشرت دل‌چسب. بی‌دلیل نیست كه نام «محبوب‌ترین نوشیدنی دنیا» را با خود یدک می‌كشد. نوشیدنش خستگی‌ها را فراری داده،‌ حس خوب آرامش را به همراه دارد.",
+      "button1":"محصولات چای",
+      "image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/image3.jpg"
+  },
+  {
+      "id":3,
+      "title1":"پسته گلستان" ,
+      "title2":"معرفی محصول",
+      "head1":"آجيل‌های خوش خنده",
+      "main":"خواص فوق‌العاده پسته بر كسی پوشیده نیست. پسته را منبع ویتامین و مواد معدنی می‌نامند، یك پمپ خون‌ساز قوی و تسكین دهنده قلب و اعصابپسته گلستان اما حسابش از دیگر پسته‌های بازار جداست. مرغوب‌ترین پسته خام از بهترین باغ‌های پسته ایران دستچین می‌شود.‌ پس از كنترل كیفیت در آزمایشگاه و اطمینان از سلامت محصول،‌ با زعفران درجه یک و نمک، بوداده و برشته شده و‌ پسته گلستان را با طعم و رنگ و عطری بی‌نظیر به ارمغان می‌آورد.",
+      "button1":"ناتس گلستان",
+      "image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/image4.jpg"
+  }
+  ],
+  "magazine":[
+    {
+      "id": 1,
+      "name": "ماکارونی با سبزیجات",
+      "main": "ابتدا ماکارانی‌ها را در ظرفی‌ به‌ همراه‌ آب‌، روغن‌ مایع‌ و نمک‌ می‌ریزیم‌ تا کمی‌ بپزد. در این‌ حین‌ پیازها را خرد کرده‌ و روی‌ روغن‌ تفت‌ می‌دهیم‌ تا طلایی‌ شود…",
+      "button": "ادامه مطلب",
+      "image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/recipe1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "سوپ مکزیکی",
+      "main": "گوشت بوقلمون را در یک ماهیتابه بزرگ ریخته، آب روی آن بریزید تا روی آن را بپوشاند و به مدت نیم ساعت آن را بپزید. گوشت را از مایع آن بیرون آورده…",
+      "button": "ادامه مطلب",
+      "image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/recipe2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "چیلاکیله",
+      "main": "احتمالا نام چیلا کیله را نشنیده باشید ولی اگر یکبار این غذای فوق‌العاده خوشمزه را تهیه کنید و نوش جان کنید جزئی جدانشدنی از فهرست",
+      "button": "ادامه مطلب",
+      "image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/recipe3.jpg"
+    }
+  ],
+  "clip":[
+    {
+      "id": 1,
+      "name": "سالاد نودل",
+      "main": "نودل هاتی کارا یك میان‌وعده‌ی مغذی، در هر موقعیتی كه باشید با كمی آب جوش و یك نودل هاتی‌كارا می‌توانید از یك غذای سالم و خوشمزه لذت ببرید.",
+      "button": "ویدیو های بیشتر",
+      "video":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/video.mp4"
+    },
+    {
+      "id": 2,
+      "name": "اینستاگرام هاتی نودل",
+      "main": "نودل‌های هاتی كارا را می‌توان جایگزین سالمی برای غذاهای فست‌فودی دانست. طعم عالی،‌ ارزش غذایی بالا و قیمت مناسب از این محصول غذای سالم و كاملی ساخته است.",
+      "button": "ادامه مطلب",
+      "video":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/video.mp4"
+    },
+    {
+      "id": 3,
+      "name": "برنج گلستان",
+      "main": "عطر و طعم بی‌نظیر برنج گلستان با هیچ برنج دیگری قابل مقایسه نیست. با گلستان،‌ كیفیت زندگی بالاتر از همیشه است. چرا كه مشتریان گلستان؛‌ لایق بهترین ها هستند.",
+      "button": "ویدیو های بیشتر",
+      "video":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/video.mp4"
+    }
+  ],
+  "response":[
+    {"id":1,"image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/face.png"},
+    {"id":2,"image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/in.png"},
+    {"id":3,"image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/insta.png"},
+    {"id":4,"image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/tel.png"},
+    {"id":5,"image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/aparat.png"},
+    {"id":6,"image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/Gl.png"}
+  ],
+  "footer":[
+    {
+      "id":1,
+      "title":"چای گلستان",
+      "name1":"چای ممتاز هندوستان",
+      "name2":"چای ممتاز ارل گری",
+      "name3":"چای سیلان عطری",
+      "name4":"چای ممتاز سیلان",
+      "name5":"چای صبحانه گلستان",
+      "image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/footer-icon1.png"
+  },
+  {
+      "id":2,
+      "title":"تی بگ گلستان",
+      "name1":"تی بگ بلک لاین",
+      "name2":"تی بگ ارل گری",
+      "name3":"دمنوش نعناع",
+      "name4":"دمنوش بابونه",
+      "name5":"دمنوش چای سبز",
+      "image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/footer-icon2.png"
+  },
+  {
+      "id":3,
+      "title":"ادویه گلستان",
+      "name1":"زعفران ممتاز خراسان",
+      "name2":"ادویه کاری",
+      "name3":"ادویه ماست و خیار",
+      "name4":"فلفل سیاه خالص",
+      "name5":"زردچوبه ممتاز",
+      "image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/footer-icon3.png"
+  },
+  {
+      "id":4,
+      "title":"حبوبات گلستان",
+      "name1":"لوبیا قرمز ممتاز",
+      "name2":"لوبیا چیتی گلستان",
+      "name3":"عدس کانادایی",
+      "name4":"نخود زودپز کرمانشاه",
+      "name5":"لوبیا سفید گلستان",
+      "image":"https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/footer-icon4.png"
+  }
+  ]
+}

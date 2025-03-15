@@ -1,0 +1,177 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "چای ارل گری (معطر)",
+      "title2": "وزن های موجود",
+      "description": "چای ارل گری گلستان، ترکیبی است از انواع چای باروتی سیلان که با عصاره برگاموت معطر شده است. زمان دم کشیدن این چای 7 تا 8 دقیقه می باشد.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/silan.png",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/tealogocup.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/500gr.png",
+      "w2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/225gr.png",
+      "w3image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100gr.png"
+    },
+    {
+      "id": 2,
+      "title": "چای ممتاز هندوستان",
+      "title2": "وزن های موجود",
+      "description": "چای ممتاز هندوستان گلستان دستچینی است زرین از مرغوبترین برگ و غنچه گیاه چای که در کناره های رودخانه برهماپوترا در اراضی آسام و دارجلینگ هند به عمل آمده است. این چای دارای عطر و طعم طبیعی چای سنتی هندوستان می باشد. زمان دم کشیدن این چای 8 تا 12دقیقه می باشد.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/tea1.png",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/tealogocup.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/500gr.png",
+      "w2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/225gr.png",
+      "w3image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100gr.png"
+    },
+    {
+      "id": 3,
+      "title": "چای سیلان طلایی",
+      "title2": "وزن های موجود",
+      "description": "گلستان با دستچینی از جوانترین برگهای چای رشد یافته در کوهپایه ها و دشت های سریلانکا یکی از بهترین نوشیدنی های چای را با عنوان چای سیلان طلایی به بازار عرضه کرده است. زمان دم کشیدن این چای 7 تا 8 دقیقه می باشد.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/goldensilan.png",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/tealogocup.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/500gr.png",
+      "w2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100gr.png"
+    },
+    {
+      "id": 4,
+      "title": "چای صبحانه گلستان",
+      "title2": "وزن های موجود",
+      "description": "چای صبحانه گلستان، دستچینی از بهترین چای کله مورچه ای، باغات هندوستان می باشد. با عطر و رنگ کاملاً طبیعی و به دلیل سرعت زیاد دم کشیدن مناسب جهت استفاده در صبح می باشد. چای صبحانه با رنگ دهی بالا مقرون بصرفه است. زمان دم کشیدن این چای 3 تا 4 دقیقه می باشد.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/breakfast.png",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/tealogocup.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/500gr.png",
+      "w2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100gr.png"
+    },
+    {
+      "id": 5,
+      "title": "چای دارجلينگ (توقف تولید)",
+      "title2": "وزن های موجود",
+      "description": "چای دارجلينگ دستچينی از بهترين و مرغوب ترين برگ های چای منطقه دارجلينگ در شمال هندوستان و كوهپايه های هيماليا مي باشد. اين چای يكی از ارزشمندترين چای های جهان و دارای عطر و طعمی منحصربه فرد است.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/product-tea-Darjeeling.jpg",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/tealogocup.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/200gr-icon.png"
+    },
+    {
+      "id": 6,
+      "title": "تی بگ ارل گری",
+      "title2": "تعداد در بسته",
+      "description": "چای کیسه ای ممتاز عطری گلستان از ترکیب مرغوبترین چای خارجی CTC هندوستان به همراه عصاره برگاموت به صورت دولایه تولید شده است. عصاره گیاه برگاموت نوشیدنی با عطر شعف آور و طعم و رنگ عالی برای مصرف در تمام اوقات فراهم آورده است. برگاموت نوعی از مرکبات با طعم و خواص مشابه ترنج است.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/product-teabag-1.jpg",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/teabag-icon.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100-icon.png",
+      "w2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/50-icon.png",
+      "w3image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/25-icon.png"
+    },
+    {
+      "id": 7,
+      "title": "تی بگ ممتاز هندوستان",
+      "title2": "تعداد در بسته",
+      "description": "چای کیسه ای ممتاز هندوستان محصول بهترین و مرغوب ترین برگ های چای می باشد. که با عشق توسط متخصصین شرکت گلستان با یکدیگر ترکیب شده و نوشیدنی منحصر به فردی را با طعم دلپذیر و رنگ مطلوب برای لذت بردن شما فراهم کرده است.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/product-teabag-2.jpg",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/teabag-icon.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100-icon.png",
+      "w2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/50-icon.png",
+      "w3image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/25-icon.png"
+    },
+    {
+      "id": 8,
+      "title": "تی بگ خارجه گلستان",
+      "title2": "تعداد در بسته",
+      "description": "چای کیسه ای درجه یک گلستان محصول بهترین و مرغوب ترین برگ های چای از مزارع هندوستان می باشد که توسط متخصصین شرکت گلستان با یکدیگر ترکیب شده، و به صورت تی بگ تک لایه عرضه می شود.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/product-teabag-3.jpg",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/teabag-icon.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100-icon.png",
+      "w2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/50-icon.png",
+      "w3image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/25-icon.png"
+    },
+    {
+      "id": 9,
+      "title": "تی بگ خارجه معطر",
+      "title2": "تعداد در بسته",
+      "description": "چای کیسه ای درجه یک گلستان محصول بهترین و مرغوب ترین برگ های چای از مزارع هندوستان می باشد که توسط متخصصین شرکت گلستان با یکدیگر ترکیب شده، و به صورت تی بگ تک لایه عرضه می شود.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/product-teabag-4.jpg",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/teabag-icon.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100-icon.png",
+      "w2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/50-icon.png",
+      "w3image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/25-icon.png"
+    },
+    {
+      "id": 10,
+      "title": "تی‌بگ خارجه انولوپ‌‌دار",
+      "title2": "تعداد در بسته",
+      "description": "تی‌بگ خارجه انولوپ‌‌دار گلستان در بسته بندی 1000عددی برای مصارف صنعتی، رستوران ها، هتل ها و… عرضه شده است. پاکت محافظ (انولوپ) برای هر کیسه چای باعث ماندگاری بهتر عطر و طعم چای می شود.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/product-teabag-5.jpg",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/teabag-icon.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/1000-icon.png"
+    },
+    {
+      "id": 11,
+      "title": "تی بگ تشریفات ممتاز هندوستان",
+      "title2": "تعداد در بسته",
+      "description": "چای کیسه ای تشریفات ممتاز گلستان (انولوپ دار) محصول بهترین و مرغوب ترین برگ های چای از مزارع هندوستان می باشد. که توسط متخصصین شرکت گلستان با یکدیگر ترکیب شده و نوشیدنی منحصر به فردی را برای لذت بردن شما فراهم کرده است.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/product-teabag-6.jpg",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/teabag-icon.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/1000-icon.png",
+      "w2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100-icon.png",
+      "w3image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/25-icon.png"
+    },
+    {
+      "id": 12,
+      "title": "تی بگ تشریفات ارل گری (معطر)",
+      "title2": "تعداد در بسته",
+      "description": "چای کیسه ای تشریفات ارل گری (معطر، انولوپ دار) ترکیبی از برگ های لطیف و مرغوب از بهترین مزارع چای به همراه عصاره برگاموت است. که با دقت توسط متخصصین با تجربه گلستان انتخاب شده و نوشیدنی با عطر شعف آور و طعم و رنگ عالی برای مصرف در تمام اوقات فراهم آورده است. برگاموت نوعی از مرکبات با طعم و خواص مشابه ترنج است.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/product-teabag-7.jpg",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/teabag-icon.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/1000-icon.png",
+      "w2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100-icon.png",
+      "w3image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/25-icon.png"
+    },
+    {
+      "id": 13,
+      "title": "چای سبز خالص گلستان",
+      "title2": "وزن های موجود",
+      "description": "چای سبز گلستان سرشار از ترکیبات آنتی اکسیدان (ترکیبات ضد سرطان) و ویتامینهای K, C, B1, B2, A می باشد و دارای خواص درمانی کاهش ابتلا به سرطان، شادابی پوست و مو، تراکم استخوان، سلامتی دهان و دندان و کاهش وزن است.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/product-greentea-1.jpg",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/tealogocup.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100gr.png" 
+    },
+    {
+      "id": 14,
+      "title": "چای سبز لیمویی گلستان",
+      "title2": "وزن های موجود",
+      "description": "چای سبز به دلیل ویژگی های منحصر به فردش از شهرت فراوانی برخوردار است. چای سبز لیمو گلستان لیمو یک نوشیدنی سالم و طبیعی را برای شما به ارمغان می آورد. لذت نوشیدن این چای سالم و طبیعی را تجربه کنید.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/product-greentea-2.jpg",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/tealogocup.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100gr.png" 
+    },
+    {
+      "id": 15,
+      "title": "چای سبز نعناع گلستان",
+"title2": "وزن های موجود",
+      "description": "طعم طبیعی چای سبز و عطر ملایم نعناع، یک انتخاب ایده ال جهت مصرف بعد از وعده های غذایی می باشد. ترکیبات آنتی اکسیدانی موجود در چای سبز با افزایش متابولیسم بدن تاثیر بسزایی در کاهش وزن، کنترل فشار خون و چربی خون دارد.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/product-greentea-3.jpg",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/tealogocup.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100gr.png" 
+    },
+    {
+      "id": 16,
+      "title": "چای سبز یاس گلستان",
+      "title2": "وزن های موجود",
+      "description": "ترکیب گل های یاس و چای سبز رایحه ای خوشایند و به یادماندنی یه ارمغان می آورد. این محصول علاوه بر طعم خوب کلسترول خون را به میزان قابل توجهی کاهش می‌ دهد و به دلیل فلوراید موجود در چای سبز می تواند نقش مهمی در محافظت دندانها ایفا می کند.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/product-greentea-4.jpg",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/tealogocup.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100gr.png" 
+    },
+    {
+      "id": 17,
+      "title": "تی بگ چای سبز",
+      "title2": "تعداد در بسته",
+      "description": "چای سبز کیسه ای گلستان به دلیل ویژگی های منحصر به فردش از شهرت فراوانی برخوردار است. ترکیبات آنتی اکسیدانی موجود در چای سبز موجب کاهش ریسک ابتلا به سرطان می گردد و با افزایش متابولیسم بدن تاثیر بسزایی در کاهش وزن، کنترل فشار خون و چربی خون دارد.",
+      "pimage": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/product-greentea-5.jpg",
+      "p2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/teabag-icon.png",
+      "w1image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/100-icon.png",
+      "w2image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/50-icon.png",
+      "w3image": "https://raw.githubusercontent.com/kraken-ship/golestan/main/assets/25-icon.png"
+    }
+  ]
+}
