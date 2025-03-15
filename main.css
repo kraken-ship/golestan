@@ -6,7 +6,11 @@
     direction: rtl;
     width: 100%;
 }
-@font-face{
-    font-family:iran;
-    src: url('../src/fonts/iran.woff');
-}
+@font-face {
+    font-family: yekanb;
+    src: url(./iran-DKieuUeF.woff);
+  }
+  @font-face {
+    font-family: yekanm;
+    src: url(./iran-DKieuUeF.woff);
+  }
