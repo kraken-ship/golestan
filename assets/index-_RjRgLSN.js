@@ -10192,7 +10192,7 @@ function py(e, t) {
     [a, u, c, r, i, n, e, o, l, s]
   );
 }
-const hy = "./assets/tea-1-0cTs4m7N.png",
+const hy = "https://raw.githubusercontent.com/kraken-ship/golestan/refs/heads/main/assets/tea1.png",
   my = "_header_12m5k_3",
   yy = { header: my },
   gy = () =>
@@ -12986,7 +12986,7 @@ const Jg = () => {
         }),
       }),
     }),
-  Nv = "./assets/tea1-CjdO677p.png",
+  Nv = "https://raw.githubusercontent.com/kraken-ship/golestan/refs/heads/main/assets/tea1.png",
   Tv = "_header_af7yl_3",
   Ov = { header: Tv },
   Lv = () =>
