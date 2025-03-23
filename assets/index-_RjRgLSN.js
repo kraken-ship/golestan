@@ -12873,7 +12873,7 @@ const Jg = () => {
                         ),
                     m.jsx("li", {
                       children: m.jsx(ln, {
-                        to: { pathname: "/" },
+                        to: "/TeaProduct/TeaProduct",
                         children: m.jsx("img", {
                           className: "logo1",
                           src: hc,
@@ -14577,7 +14577,7 @@ const _i = U1(
         m.jsxs(ry, {
           children: [
             m.jsx(ps, { path: "/", element: m.jsx(mv, {}) }),
-            m.jsx(ps, { path: "*", element: m.jsx(nw, {}) }),
+            m.jsx(ps, { path: "/Tea/*", element: m.jsx(nw, {}) }),
           ],
         }),
         m.jsx(Cv, {}),
