@@ -14576,7 +14576,7 @@ const _i = U1(
         m.jsx(vv, {}),
         m.jsxs(ry, {
           children: [
-            m.jsx(ps, { path: "/", element: m.jsx(mv, {}) }),
+            m.jsx(ps, { path: "*", element: m.jsx(mv, {}) }),
             m.jsx(ps, { path: "Tea", element: m.jsx(nw, {}) }),
           ],
         }),
