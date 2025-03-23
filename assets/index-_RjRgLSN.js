@@ -12850,7 +12850,7 @@ const Jg = () => {
                                   "li",
                                   {
                                     children: m.jsx(ln, {
-                                      to: "/TeaProduct/TeaProduct.jsx",
+                                      to: "/TeaProduct/TeaProduct",
                                       children: o.name,
                                     }),
                                   },
