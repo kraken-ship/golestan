@@ -12786,7 +12786,7 @@ const Jg = () => {
                               "div",
                               {
                                 children: m.jsx(ln, {
-                                  to: "/Tea",
+                                  to: "/TeaProduct/TeaProduct2",
                                   children: o.name,
                                 }),
                               },
@@ -12850,7 +12850,7 @@ const Jg = () => {
                                   "li",
                                   {
                                     children: m.jsx(ln, {
-                                      to: "/Tea",
+                                      to: "/TeaProduct/TeaProduct2",
                                       children: o.name,
                                     }),
                                   },
@@ -12986,7 +12986,7 @@ const Jg = () => {
         }),
       }),
     }),
-  Nv = "./assets/tea1.png",
+  Nv = "./assets/tea1-CjdO677p.png",
   Tv = "_header_af7yl_3",
   Ov = { header: Tv },
   Lv = () =>
