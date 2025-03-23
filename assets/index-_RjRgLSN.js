@@ -10192,7 +10192,7 @@ function py(e, t) {
     [a, u, c, r, i, n, e, o, l, s]
   );
 }
-const hy = "https://raw.githubusercontent.com/kraken-ship/golestan/refs/heads/main/assets/tea1.png",
+const hy = "https://github.com/kraken-ship/golestan/blob/main/assets/%D9%82%D8%B1%D9%85%D8%B2.png?raw=true",
   my = "_header_12m5k_3",
   yy = { header: my },
   gy = () =>
