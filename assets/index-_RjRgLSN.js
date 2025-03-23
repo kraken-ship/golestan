@@ -12850,7 +12850,7 @@ const Jg = () => {
                                   "li",
                                   {
                                     children: m.jsx(ln, {
-                                      to: "../TeaProduct/TeaProduct.jsx",
+                                      to: "/TeaProduct/TeaProduct.jsx",
                                       children: o.name,
                                     }),
                                   },
@@ -12862,7 +12862,7 @@ const Jg = () => {
                                   "li",
                                   {
                                     children: m.jsx(ln, {
-                                      to: { pathname: "/" },
+                                      to: { pathname: "/Home/App/App" },
                                       className: "active",
                                       children: o.name,
                                     }),
@@ -12873,7 +12873,7 @@ const Jg = () => {
                         ),
                     m.jsx("li", {
                       children: m.jsx(ln, {
-                        to: "/TeaProduct/TeaProduct",
+                        to: "/Home/App/App",
                         children: m.jsx("img", {
                           className: "logo1",
                           src: hc,
