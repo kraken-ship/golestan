@@ -12986,7 +12986,7 @@ const Jg = () => {
         }),
       }),
     }),
-  Nv = "./assets/%D9%82%D8%B1%D9%85%D8%B2-CjdO677p.png",
+  Nv = "./assets/tea1.png",
   Tv = "_header_af7yl_3",
   Ov = { header: Tv },
   Lv = () =>
