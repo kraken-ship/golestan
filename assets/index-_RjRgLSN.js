@@ -14774,7 +14774,7 @@ const _i = V0(
         g.jsx(Pv, {}),
         g.jsxs(py, {
           children: [
-            g.jsx(ou, { path: "/", element: g.jsx(Cv, {}) }),
+            g.jsx(ou, { path: "*", element: g.jsx(Cv, {}) }),
             g.jsx(ou, { path: "/tea/*", element: g.jsx(s1, {}) }),
           ],
         }),
