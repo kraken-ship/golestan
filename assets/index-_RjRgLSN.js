@@ -12984,7 +12984,7 @@ const {
                                 "div",
                                 {
                                   children: g.jsx(ir, {
-                                    to: "*",
+                                    to: "/home",
                                     children: f.name,
                                   }),
                                 },
@@ -13004,7 +13004,7 @@ const {
                       ),
               }),
               g.jsx(ir, {
-                to: "*",
+                to: "/home",
                 children: g.jsx("img", { src: rd, alt: "" }),
               }),
             ],
@@ -13048,7 +13048,7 @@ const {
                                   "li",
                                   {
                                     children: g.jsx(ir, {
-                                      to: "*",
+                                      to: "/home",
                                       className: "active",
                                       children: f.name,
                                     }),
@@ -13059,7 +13059,7 @@ const {
                         ),
                     g.jsx("li", {
                       children: g.jsx(ir, {
-                        to: "*",
+                        to: "/home",
                         children: g.jsx("img", {
                           className: "logo1",
                           src: rd,
