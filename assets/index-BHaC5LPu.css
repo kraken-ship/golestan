@@ -1401,8 +1401,8 @@
         row-gap: 20px;
         justify-content: center;
         align-items: flex-start;
-        padding-right: 423px;
-        padding-top: 122px;
+        padding-right: 10%;
+        padding-top: 10%;
         border: none
     }
 
@@ -1531,15 +1531,15 @@
     }
 
     ._res_2lojp_3 div:nth-of-type(4) ._link_2lojp_139 {
-        width: 50%;
+        width: 72%;
         background-color: #fff;
         display: flex;
         flex-flow: column nowrap;
         row-gap: 20px;
         justify-content: center;
         align-items: flex-start;
-        padding-right: 150px;
-        padding-top: 170px;
+        padding-right: 10%;
+        padding-top: 30%;
         border: none
     }
 
@@ -1677,8 +1677,8 @@
         row-gap: 20px;
         justify-content: center;
         align-items: flex-start;
-        padding-right: 55px;
-        padding-top: 42%;
+        padding-right: 10%;
+        padding-top: 70%;
         border: none
     }
 
